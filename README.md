@@ -13,7 +13,7 @@
 ![Outcomes_Based_on_Launch_Date]
 ##### Largest number of successful campaigns occure between April and July
 ---
-![Parent_Category_Outcomes](/Users/benjaminclark/Desktop/Data Bootcamp/Crowdfunding Analysis - Module 1/ParentCategoryOutcomes.png)
+![Parent_Category_Outcomes]../ParentCategoryOutcomes.png)
 #### Theater projects are the largest Parent Category, but also deliver more failed campaigns than other categories
 ---
 ### Recommendation
