@@ -13,7 +13,7 @@
 ![Outcomes_Based_on_Launch_Date](https://github.com/benclark62/kickstarter-analysis/blob/main/OutcomesBasedOnLaunchDate.png)
 ##### Largest number of successful campaigns occure between April and July
 ---
-![Parent_Category_Campaign_Performance](https://github.com/benclark62/kickstarter-analysis/ParentCategoryOutcomes.png)
+![Parent_Category_Outcomes](https://github.com/benclark62/kickstarter-analysis/ParentCategoryOutcomes.png)
 #### Theater projects are the largest Parent Category, but also deliver more failed campaigns than other categories
 ---
 ### Recommendation
