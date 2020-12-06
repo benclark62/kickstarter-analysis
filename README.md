@@ -10,7 +10,7 @@
 - From 2009 - 2017, theater camapigns launched in summer months apper to deliver the most successful outcomes
 - Of all parent categories, theater campaigns delivered the highest absolute number of successful campaigns (839), but music campaigns had a higher success rate (77% vs 60% for theater) based on comparing successful campaigns to total (successful, failed, cancelled, live)
 ---
-![Outcomes_Based_on_Launch_Date]https://github.com/benclark62/kickstarter-analysis/blob/main/OutcomesBasedOnLaunchDate.png
+![Outcomes_Based_on_Launch_Date](https://github.com/benclark62/kickstarter-analysis/blob/main/OutcomesBasedOnLaunchDate.png)
 ##### Largest number of successful campaigns occure between April and July
 ---
 https://github.com/benclark62/kickstarter-analysis/ParentCategoryOutcomes.png
