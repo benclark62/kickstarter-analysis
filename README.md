@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise, an aspiring play producer, conducted a Kickstarter campaign to fund her play, Fever.  Her initial campaign delivered less than the stated goal (86% of goal) and she has requested additional research to be conducted about comparable projects. 
+Louise, an aspiring play producer, conducted a Kickstarter campaign to fund her play, *Fever*.  Her initial campaign delivered less than the stated goal (86% of goal) and she has requested additional research to be conducted about comparable projects. 
 I investigated trends in data retrieved from the Kickstarter website that allowed me to segment campaign performance in ways that were relevant to Louise’s approach.  This analysis will provide Louise with insights for making decisions around campaign timing and goal-setting, while identifying additional analysis that would inform future campaigns. 
 
 ### Purpose
