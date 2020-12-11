@@ -20,7 +20,7 @@ Defining the launch date required converting timing information from Unix timest
 =(((J2/60)/60)/24)+DATE(1970,1,1)
 With the data formatted correctly, a Pivot table was created to sort campaign outcomes by their launch date.  In my version of Excel, the data was automatically formatted into Years and Quarters.  This required an additional step of “ungrouping” the Row Labels into more granular monthly data.  With the Pivot table formatted to show outcomes (Successful, Failed, Canceled) by month, I added a Pivot Chart to visualize the data.
 
-![Outcomes_vs_Goals.png](https://github.com/benclark62/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/benclark62/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 With the data presented in a line chart, it became apparent that the months with the greatest absolute number of successful theater campaigns were May, June, and July.  These months averaged 99.3 successful campaigns per month compared to an average of 60.1 successful campaigns for the remainder of the year.  In addition to the highest absolute number of successful campaigns, the months of May, June, and July also had the highest success rate (Successful campaigns / total campaigns) during the year, indicating that this would be the best time to launch a theater campaign.
 
@@ -30,7 +30,7 @@ Using simple break points, a table was created to categorize the goals by size a
 =COUNTIFS(Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<=4999",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays")
 With the counts of campaign outcomes assigned to goal size groupings, we now calculated the outcome rates (i.e. count of successful / count of total for goal size grouping) to determine the goal sizes that produced the highest rates of successful campaigns
 
-![Theater_Outcomes_vs_Launch.png](https://github.com/benclark62/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals.png](https://github.com/benclark62/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 Converting the outcome rate data into a line chart made it clear that the goal size groupings with the highest likelihoods for success were those less than $15,000.  Campaigns with goals between $35,000 and $44,999 demonstrated higher success rates, but this appears to be an anomaly based on a small sample size (only 9 campaigns, or 0.8% of theater campaigns fell into that range).
 
