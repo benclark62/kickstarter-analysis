@@ -12,6 +12,7 @@ Kickstarter data provided information for 4,115 distinct campaigns covering nine
 -	Unique event identifiers (ID)
 -	Campaign details:  names, descriptions, locations, and campaign duration
 -	Campaign performance: Goals ($), Pledged ($), number of supporters, 
+
 Analysis was conducted to understand performance trends that could inform future campaign decisions.   
 
 ### Analysis of Outcomes Based on Launch Date
